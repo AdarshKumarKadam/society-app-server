@@ -1,9 +1,4 @@
 
----
-
-### **Backend (BE) - README.md**
-
-```markdown
 # Society Management Application - Backend
 
 ## Overview
